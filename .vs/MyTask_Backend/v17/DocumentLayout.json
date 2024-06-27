@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Arabtech\\Documents\\MyTask\\MyTask_Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A3783A-78C5-4092-80AB-766AE7EDA1EB}|MyTask_Backend\\MyTask_Backend.csproj|c:\\users\\arabtech\\documents\\mytask\\mytask_backend\\mytask_backend\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9A3783A-78C5-4092-80AB-766AE7EDA1EB}|MyTask_Backend\\MyTask_Backend.csproj|solutionrelative:mytask_backend\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A3783A-78C5-4092-80AB-766AE7EDA1EB}|MyTask_Backend\\MyTask_Backend.csproj|c:\\users\\arabtech\\documents\\mytask\\mytask_backend\\mytask_backend\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9A3783A-78C5-4092-80AB-766AE7EDA1EB}|MyTask_Backend\\MyTask_Backend.csproj|solutionrelative:mytask_backend\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A3783A-78C5-4092-80AB-766AE7EDA1EB}|MyTask_Backend\\MyTask_Backend.csproj|c:\\users\\arabtech\\documents\\mytask\\mytask_backend\\mytask_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9A3783A-78C5-4092-80AB-766AE7EDA1EB}|MyTask_Backend\\MyTask_Backend.csproj|solutionrelative:mytask_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Arabtech\\Documents\\MyTask\\MyTask_Backend\\MyTask_Backend\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "MyTask_Backend\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Arabtech\\Documents\\MyTask\\MyTask_Backend\\MyTask_Backend\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "MyTask_Backend\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAewCUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T17:03:20.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\Arabtech\\Documents\\MyTask\\MyTask_Backend\\MyTask_Backend\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "MyTask_Backend\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\Arabtech\\Documents\\MyTask\\MyTask_Backend\\MyTask_Backend\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "MyTask_Backend\\Controllers\\DepartmentController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T17:03:14.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Arabtech\\Documents\\MyTask\\MyTask_Backend\\MyTask_Backend\\Program.cs",
+              "RelativeDocumentMoniker": "MyTask_Backend\\Program.cs",
+              "ToolTip": "C:\\Users\\Arabtech\\Documents\\MyTask\\MyTask_Backend\\MyTask_Backend\\Program.cs",
+              "RelativeToolTip": "MyTask_Backend\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T16:59:04.415Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

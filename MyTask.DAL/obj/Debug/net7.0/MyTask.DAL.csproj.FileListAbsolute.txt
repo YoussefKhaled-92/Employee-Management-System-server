@@ -1,0 +1,70 @@
+C:\Users\hesham.Abden\source\repos\MyTask.DAL\obj\Debug\net7.0\MyTask.DAL.csproj.AssemblyReference.cache
+C:\Users\hesham.Abden\source\repos\MyTask.DAL\obj\Debug\net7.0\MyTask.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hesham.Abden\source\repos\MyTask.DAL\obj\Debug\net7.0\MyTask.DAL.AssemblyInfoInputs.cache
+C:\Users\hesham.Abden\source\repos\MyTask.DAL\obj\Debug\net7.0\MyTask.DAL.AssemblyInfo.cs
+C:\Users\hesham.Abden\source\repos\MyTask.DAL\obj\Debug\net7.0\MyTask.DAL.csproj.CoreCompileInputs.cache
+C:\Users\hesham.Abden\source\repos\MyTask.DAL\bin\Debug\net7.0\MyTask.DAL.deps.json
+C:\Users\hesham.Abden\source\repos\MyTask.DAL\bin\Debug\net7.0\MyTask.DAL.runtimeconfig.json
+C:\Users\hesham.Abden\source\repos\MyTask.DAL\bin\Debug\net7.0\MyTask.DAL.dll
+C:\Users\hesham.Abden\source\repos\MyTask.DAL\bin\Debug\net7.0\MyTask.DAL.pdb
+C:\Users\hesham.Abden\source\repos\MyTask.DAL\obj\Debug\net7.0\MyTask.DAL.dll
+C:\Users\hesham.Abden\source\repos\MyTask.DAL\obj\Debug\net7.0\refint\MyTask.DAL.dll
+C:\Users\hesham.Abden\source\repos\MyTask.DAL\obj\Debug\net7.0\MyTask.DAL.pdb
+C:\Users\hesham.Abden\source\repos\MyTask.DAL\obj\Debug\net7.0\MyTask.DAL.genruntimeconfig.cache
+C:\Users\hesham.Abden\source\repos\MyTask.DAL\obj\Debug\net7.0\ref\MyTask.DAL.dll
+C:\Users\Arabtech\source\repos\MyTask.DAL\bin\Debug\net7.0\MyTask.DAL.deps.json
+C:\Users\Arabtech\source\repos\MyTask.DAL\bin\Debug\net7.0\MyTask.DAL.runtimeconfig.json
+C:\Users\Arabtech\source\repos\MyTask.DAL\bin\Debug\net7.0\MyTask.DAL.dll
+C:\Users\Arabtech\source\repos\MyTask.DAL\bin\Debug\net7.0\MyTask.DAL.pdb
+C:\Users\Arabtech\source\repos\MyTask.DAL\obj\Debug\net7.0\MyTask.DAL.csproj.AssemblyReference.cache
+C:\Users\Arabtech\source\repos\MyTask.DAL\obj\Debug\net7.0\MyTask.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arabtech\source\repos\MyTask.DAL\obj\Debug\net7.0\MyTask.DAL.AssemblyInfoInputs.cache
+C:\Users\Arabtech\source\repos\MyTask.DAL\obj\Debug\net7.0\MyTask.DAL.AssemblyInfo.cs
+C:\Users\Arabtech\source\repos\MyTask.DAL\obj\Debug\net7.0\MyTask.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Arabtech\source\repos\MyTask.DAL\obj\Debug\net7.0\MyTask.DAL.dll
+C:\Users\Arabtech\source\repos\MyTask.DAL\obj\Debug\net7.0\refint\MyTask.DAL.dll
+C:\Users\Arabtech\source\repos\MyTask.DAL\obj\Debug\net7.0\MyTask.DAL.pdb
+C:\Users\Arabtech\source\repos\MyTask.DAL\obj\Debug\net7.0\MyTask.DAL.genruntimeconfig.cache
+C:\Users\Arabtech\source\repos\MyTask.DAL\obj\Debug\net7.0\ref\MyTask.DAL.dll
+E:\General Tasks\source\repos\MyTask.DAL\bin\Debug\net7.0\MyTask.DAL.deps.json
+E:\General Tasks\source\repos\MyTask.DAL\bin\Debug\net7.0\MyTask.DAL.runtimeconfig.json
+E:\General Tasks\source\repos\MyTask.DAL\bin\Debug\net7.0\MyTask.DAL.dll
+E:\General Tasks\source\repos\MyTask.DAL\bin\Debug\net7.0\MyTask.DAL.pdb
+E:\General Tasks\source\repos\MyTask.DAL\obj\Debug\net7.0\MyTask.DAL.csproj.AssemblyReference.cache
+E:\General Tasks\source\repos\MyTask.DAL\obj\Debug\net7.0\MyTask.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\General Tasks\source\repos\MyTask.DAL\obj\Debug\net7.0\MyTask.DAL.AssemblyInfoInputs.cache
+E:\General Tasks\source\repos\MyTask.DAL\obj\Debug\net7.0\MyTask.DAL.AssemblyInfo.cs
+E:\General Tasks\source\repos\MyTask.DAL\obj\Debug\net7.0\MyTask.DAL.csproj.CoreCompileInputs.cache
+E:\General Tasks\source\repos\MyTask.DAL\obj\Debug\net7.0\MyTask.DAL.dll
+E:\General Tasks\source\repos\MyTask.DAL\obj\Debug\net7.0\refint\MyTask.DAL.dll
+E:\General Tasks\source\repos\MyTask.DAL\obj\Debug\net7.0\MyTask.DAL.pdb
+E:\General Tasks\source\repos\MyTask.DAL\obj\Debug\net7.0\MyTask.DAL.genruntimeconfig.cache
+E:\General Tasks\source\repos\MyTask.DAL\obj\Debug\net7.0\ref\MyTask.DAL.dll
+C:\Users\Arabtech\Documents\source\repos\MyTask.DAL\bin\Debug\net7.0\MyTask.DAL.deps.json
+C:\Users\Arabtech\Documents\source\repos\MyTask.DAL\bin\Debug\net7.0\MyTask.DAL.runtimeconfig.json
+C:\Users\Arabtech\Documents\source\repos\MyTask.DAL\bin\Debug\net7.0\MyTask.DAL.dll
+C:\Users\Arabtech\Documents\source\repos\MyTask.DAL\bin\Debug\net7.0\MyTask.DAL.pdb
+C:\Users\Arabtech\Documents\source\repos\MyTask.DAL\obj\Debug\net7.0\MyTask.DAL.csproj.AssemblyReference.cache
+C:\Users\Arabtech\Documents\source\repos\MyTask.DAL\obj\Debug\net7.0\MyTask.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arabtech\Documents\source\repos\MyTask.DAL\obj\Debug\net7.0\MyTask.DAL.AssemblyInfoInputs.cache
+C:\Users\Arabtech\Documents\source\repos\MyTask.DAL\obj\Debug\net7.0\MyTask.DAL.AssemblyInfo.cs
+C:\Users\Arabtech\Documents\source\repos\MyTask.DAL\obj\Debug\net7.0\MyTask.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Arabtech\Documents\source\repos\MyTask.DAL\obj\Debug\net7.0\MyTask.DAL.dll
+C:\Users\Arabtech\Documents\source\repos\MyTask.DAL\obj\Debug\net7.0\refint\MyTask.DAL.dll
+C:\Users\Arabtech\Documents\source\repos\MyTask.DAL\obj\Debug\net7.0\MyTask.DAL.pdb
+C:\Users\Arabtech\Documents\source\repos\MyTask.DAL\obj\Debug\net7.0\MyTask.DAL.genruntimeconfig.cache
+C:\Users\Arabtech\Documents\source\repos\MyTask.DAL\obj\Debug\net7.0\ref\MyTask.DAL.dll
+C:\Users\Arabtech\Documents\MyTask\MyTask_Backend\MyTask.DAL\bin\Debug\net7.0\MyTask.DAL.deps.json
+C:\Users\Arabtech\Documents\MyTask\MyTask_Backend\MyTask.DAL\bin\Debug\net7.0\MyTask.DAL.runtimeconfig.json
+C:\Users\Arabtech\Documents\MyTask\MyTask_Backend\MyTask.DAL\bin\Debug\net7.0\MyTask.DAL.dll
+C:\Users\Arabtech\Documents\MyTask\MyTask_Backend\MyTask.DAL\bin\Debug\net7.0\MyTask.DAL.pdb
+C:\Users\Arabtech\Documents\MyTask\MyTask_Backend\MyTask.DAL\obj\Debug\net7.0\MyTask.DAL.csproj.AssemblyReference.cache
+C:\Users\Arabtech\Documents\MyTask\MyTask_Backend\MyTask.DAL\obj\Debug\net7.0\MyTask.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arabtech\Documents\MyTask\MyTask_Backend\MyTask.DAL\obj\Debug\net7.0\MyTask.DAL.AssemblyInfoInputs.cache
+C:\Users\Arabtech\Documents\MyTask\MyTask_Backend\MyTask.DAL\obj\Debug\net7.0\MyTask.DAL.AssemblyInfo.cs
+C:\Users\Arabtech\Documents\MyTask\MyTask_Backend\MyTask.DAL\obj\Debug\net7.0\MyTask.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Arabtech\Documents\MyTask\MyTask_Backend\MyTask.DAL\obj\Debug\net7.0\MyTask.DAL.dll
+C:\Users\Arabtech\Documents\MyTask\MyTask_Backend\MyTask.DAL\obj\Debug\net7.0\refint\MyTask.DAL.dll
+C:\Users\Arabtech\Documents\MyTask\MyTask_Backend\MyTask.DAL\obj\Debug\net7.0\MyTask.DAL.pdb
+C:\Users\Arabtech\Documents\MyTask\MyTask_Backend\MyTask.DAL\obj\Debug\net7.0\MyTask.DAL.genruntimeconfig.cache
+C:\Users\Arabtech\Documents\MyTask\MyTask_Backend\MyTask.DAL\obj\Debug\net7.0\ref\MyTask.DAL.dll

@@ -1,0 +1,75 @@
+C:\Users\hesham.Abden\source\repos\MyTask.BAL\bin\Debug\net7.0\MyTask.BAL.deps.json
+C:\Users\hesham.Abden\source\repos\MyTask.BAL\bin\Debug\net7.0\MyTask.BAL.dll
+C:\Users\hesham.Abden\source\repos\MyTask.BAL\bin\Debug\net7.0\MyTask.BAL.pdb
+C:\Users\hesham.Abden\source\repos\MyTask.BAL\bin\Debug\net7.0\MyTask.DAL.dll
+C:\Users\hesham.Abden\source\repos\MyTask.BAL\bin\Debug\net7.0\MyTask.DAL.pdb
+C:\Users\hesham.Abden\source\repos\MyTask.BAL\obj\Debug\net7.0\MyTask.BAL.csproj.AssemblyReference.cache
+C:\Users\hesham.Abden\source\repos\MyTask.BAL\obj\Debug\net7.0\MyTask.BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hesham.Abden\source\repos\MyTask.BAL\obj\Debug\net7.0\MyTask.BAL.AssemblyInfoInputs.cache
+C:\Users\hesham.Abden\source\repos\MyTask.BAL\obj\Debug\net7.0\MyTask.BAL.AssemblyInfo.cs
+C:\Users\hesham.Abden\source\repos\MyTask.BAL\obj\Debug\net7.0\MyTask.BAL.csproj.CoreCompileInputs.cache
+C:\Users\hesham.Abden\source\repos\MyTask.BAL\obj\Debug\net7.0\MyTask.BAL.csproj.CopyComplete
+C:\Users\hesham.Abden\source\repos\MyTask.BAL\obj\Debug\net7.0\MyTask.BAL.dll
+C:\Users\hesham.Abden\source\repos\MyTask.BAL\obj\Debug\net7.0\refint\MyTask.BAL.dll
+C:\Users\hesham.Abden\source\repos\MyTask.BAL\obj\Debug\net7.0\MyTask.BAL.pdb
+C:\Users\hesham.Abden\source\repos\MyTask.BAL\obj\Debug\net7.0\ref\MyTask.BAL.dll
+C:\Users\Arabtech\source\repos\MyTask.BAL\bin\Debug\net7.0\MyTask.BAL.deps.json
+C:\Users\Arabtech\source\repos\MyTask.BAL\bin\Debug\net7.0\MyTask.BAL.dll
+C:\Users\Arabtech\source\repos\MyTask.BAL\bin\Debug\net7.0\MyTask.BAL.pdb
+C:\Users\Arabtech\source\repos\MyTask.BAL\bin\Debug\net7.0\MyTask.DAL.dll
+C:\Users\Arabtech\source\repos\MyTask.BAL\bin\Debug\net7.0\MyTask.DAL.pdb
+C:\Users\Arabtech\source\repos\MyTask.BAL\obj\Debug\net7.0\MyTask.BAL.csproj.AssemblyReference.cache
+C:\Users\Arabtech\source\repos\MyTask.BAL\obj\Debug\net7.0\MyTask.BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arabtech\source\repos\MyTask.BAL\obj\Debug\net7.0\MyTask.BAL.AssemblyInfoInputs.cache
+C:\Users\Arabtech\source\repos\MyTask.BAL\obj\Debug\net7.0\MyTask.BAL.AssemblyInfo.cs
+C:\Users\Arabtech\source\repos\MyTask.BAL\obj\Debug\net7.0\MyTask.BAL.csproj.CoreCompileInputs.cache
+C:\Users\Arabtech\source\repos\MyTask.BAL\obj\Debug\net7.0\MyTask.BAL.csproj.Up2Date
+C:\Users\Arabtech\source\repos\MyTask.BAL\obj\Debug\net7.0\MyTask.BAL.dll
+C:\Users\Arabtech\source\repos\MyTask.BAL\obj\Debug\net7.0\refint\MyTask.BAL.dll
+C:\Users\Arabtech\source\repos\MyTask.BAL\obj\Debug\net7.0\MyTask.BAL.pdb
+C:\Users\Arabtech\source\repos\MyTask.BAL\obj\Debug\net7.0\ref\MyTask.BAL.dll
+E:\General Tasks\source\repos\MyTask.BAL\bin\Debug\net7.0\MyTask.BAL.deps.json
+E:\General Tasks\source\repos\MyTask.BAL\bin\Debug\net7.0\MyTask.BAL.dll
+E:\General Tasks\source\repos\MyTask.BAL\bin\Debug\net7.0\MyTask.BAL.pdb
+E:\General Tasks\source\repos\MyTask.BAL\bin\Debug\net7.0\MyTask.DAL.dll
+E:\General Tasks\source\repos\MyTask.BAL\bin\Debug\net7.0\MyTask.DAL.pdb
+E:\General Tasks\source\repos\MyTask.BAL\obj\Debug\net7.0\MyTask.BAL.csproj.AssemblyReference.cache
+E:\General Tasks\source\repos\MyTask.BAL\obj\Debug\net7.0\MyTask.BAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\General Tasks\source\repos\MyTask.BAL\obj\Debug\net7.0\MyTask.BAL.AssemblyInfoInputs.cache
+E:\General Tasks\source\repos\MyTask.BAL\obj\Debug\net7.0\MyTask.BAL.AssemblyInfo.cs
+E:\General Tasks\source\repos\MyTask.BAL\obj\Debug\net7.0\MyTask.BAL.csproj.CoreCompileInputs.cache
+E:\General Tasks\source\repos\MyTask.BAL\obj\Debug\net7.0\MyTask.BAL.csproj.CopyComplete
+E:\General Tasks\source\repos\MyTask.BAL\obj\Debug\net7.0\MyTask.BAL.dll
+E:\General Tasks\source\repos\MyTask.BAL\obj\Debug\net7.0\refint\MyTask.BAL.dll
+E:\General Tasks\source\repos\MyTask.BAL\obj\Debug\net7.0\MyTask.BAL.pdb
+E:\General Tasks\source\repos\MyTask.BAL\obj\Debug\net7.0\ref\MyTask.BAL.dll
+C:\Users\Arabtech\Documents\source\repos\MyTask.BAL\bin\Debug\net7.0\MyTask.BAL.deps.json
+C:\Users\Arabtech\Documents\source\repos\MyTask.BAL\bin\Debug\net7.0\MyTask.BAL.dll
+C:\Users\Arabtech\Documents\source\repos\MyTask.BAL\bin\Debug\net7.0\MyTask.BAL.pdb
+C:\Users\Arabtech\Documents\source\repos\MyTask.BAL\bin\Debug\net7.0\MyTask.DAL.dll
+C:\Users\Arabtech\Documents\source\repos\MyTask.BAL\bin\Debug\net7.0\MyTask.DAL.pdb
+C:\Users\Arabtech\Documents\source\repos\MyTask.BAL\obj\Debug\net7.0\MyTask.BAL.csproj.AssemblyReference.cache
+C:\Users\Arabtech\Documents\source\repos\MyTask.BAL\obj\Debug\net7.0\MyTask.BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arabtech\Documents\source\repos\MyTask.BAL\obj\Debug\net7.0\MyTask.BAL.AssemblyInfoInputs.cache
+C:\Users\Arabtech\Documents\source\repos\MyTask.BAL\obj\Debug\net7.0\MyTask.BAL.AssemblyInfo.cs
+C:\Users\Arabtech\Documents\source\repos\MyTask.BAL\obj\Debug\net7.0\MyTask.BAL.csproj.CoreCompileInputs.cache
+C:\Users\Arabtech\Documents\source\repos\MyTask.BAL\obj\Debug\net7.0\MyTask.BAL.csproj.Up2Date
+C:\Users\Arabtech\Documents\source\repos\MyTask.BAL\obj\Debug\net7.0\MyTask.BAL.dll
+C:\Users\Arabtech\Documents\source\repos\MyTask.BAL\obj\Debug\net7.0\refint\MyTask.BAL.dll
+C:\Users\Arabtech\Documents\source\repos\MyTask.BAL\obj\Debug\net7.0\MyTask.BAL.pdb
+C:\Users\Arabtech\Documents\source\repos\MyTask.BAL\obj\Debug\net7.0\ref\MyTask.BAL.dll
+C:\Users\Arabtech\Documents\MyTask\MyTask_Backend\MyTask.BAL\bin\Debug\net7.0\MyTask.BAL.deps.json
+C:\Users\Arabtech\Documents\MyTask\MyTask_Backend\MyTask.BAL\bin\Debug\net7.0\MyTask.BAL.dll
+C:\Users\Arabtech\Documents\MyTask\MyTask_Backend\MyTask.BAL\bin\Debug\net7.0\MyTask.BAL.pdb
+C:\Users\Arabtech\Documents\MyTask\MyTask_Backend\MyTask.BAL\bin\Debug\net7.0\MyTask.DAL.dll
+C:\Users\Arabtech\Documents\MyTask\MyTask_Backend\MyTask.BAL\bin\Debug\net7.0\MyTask.DAL.pdb
+C:\Users\Arabtech\Documents\MyTask\MyTask_Backend\MyTask.BAL\obj\Debug\net7.0\MyTask.BAL.csproj.AssemblyReference.cache
+C:\Users\Arabtech\Documents\MyTask\MyTask_Backend\MyTask.BAL\obj\Debug\net7.0\MyTask.BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arabtech\Documents\MyTask\MyTask_Backend\MyTask.BAL\obj\Debug\net7.0\MyTask.BAL.AssemblyInfoInputs.cache
+C:\Users\Arabtech\Documents\MyTask\MyTask_Backend\MyTask.BAL\obj\Debug\net7.0\MyTask.BAL.AssemblyInfo.cs
+C:\Users\Arabtech\Documents\MyTask\MyTask_Backend\MyTask.BAL\obj\Debug\net7.0\MyTask.BAL.csproj.CoreCompileInputs.cache
+C:\Users\Arabtech\Documents\MyTask\MyTask_Backend\MyTask.BAL\obj\Debug\net7.0\MyTask.BAL.csproj.Up2Date
+C:\Users\Arabtech\Documents\MyTask\MyTask_Backend\MyTask.BAL\obj\Debug\net7.0\MyTask.BAL.dll
+C:\Users\Arabtech\Documents\MyTask\MyTask_Backend\MyTask.BAL\obj\Debug\net7.0\refint\MyTask.BAL.dll
+C:\Users\Arabtech\Documents\MyTask\MyTask_Backend\MyTask.BAL\obj\Debug\net7.0\MyTask.BAL.pdb
+C:\Users\Arabtech\Documents\MyTask\MyTask_Backend\MyTask.BAL\obj\Debug\net7.0\ref\MyTask.BAL.dll
